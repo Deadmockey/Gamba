@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Gamba",
+    "version": "1.0.0",
+    "description": "Let's Go Gambling",
+    "icons": {
+        "96": "icons/casino-icon.png"
+    },
+    "browser_action": {
+        "default_icon": "icons/casino-icon.png",
+        "default_title": "Casino",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "storage"
+    ]
+}

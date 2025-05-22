@@ -1,0 +1,32 @@
+body {
+    background: #4cbb17;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.slots-div {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    padding: 1em;
+    margin: 1em;
+    width: fit-content;
+}
+
+.slot {
+    background-color: black;
+    color: white;
+    font-size: 20pt;
+    padding: 1em;
+    margin: 2px;
+}
+
+.spin-btn {
+    background: yellow;
+    padding: .25em;
+    margin: 0em 5em 1em 5em;
+    border: 2px solid black;
+    font-size: 15pt;
+
+}
