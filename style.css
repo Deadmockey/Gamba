@@ -5,6 +5,11 @@ body {
     width: fit-content;
 }
 
+.coins {
+    color: yellow;
+    margin: 0em 1em;
+}
+
 .slots-div {
     background-color: red;
     display: flex;
